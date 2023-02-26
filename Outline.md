@@ -1,12 +1,43 @@
-
+# Virtual Cameras for Video Games
 
 ## Intro  
-From Static to Scrolling Screens  
-Brand new POVs  
-The advent of Cinematic storytelling  
-    
+What do we mean by VCVG today  
+The lack of ressources on the subject  
+A word on Mark Craig Hutchinson  
+
+How to read that book  
  
-## History of Virtual Cameras
+## History of Virtual Cameras  
     
-    
+### From Static to Scrolling Screens  
+1st VG = 1st Camera  
+NES graphics explained: Mario  
+
+
+
+### Brand New POVs  
+Wolfenstein 3D & DooM  
+Mario64  
+
+
+
+### The advent of Cinematic Storytelling  
+Cutscenes  
+Pre-Rendered Cinematics  
+Real-Time Events  
+Motion Capture  
+
+
+## Real-Time Cameras  
+The concept of camera in a 3D space    
+Command Line 3D Engine in C++  
+Raycasting  
+
+## Cameras in a 3D Engine  
+The Graphic Pipeline  
+Math  
+
+
+
+
     
