@@ -3,7 +3,7 @@
 ## Intro  
 What do we mean by VCVG today  
 The lack of ressources on the subject  
-A word on Mark Craig Hutchinson  
+A word on Mark Craig Hutchinson & Fabien Sanglard & Others  
 
 How to read that book  
  
@@ -11,15 +11,14 @@ How to read that book
     
 ### From Static to Scrolling Screens  
 1st VG = 1st Camera  
+Spacewars  
+Tennis for Two
 NES graphics explained: Mario  
 
-
-
 ### Brand New POVs  
+Brief History of 3D  
 Wolfenstein 3D & DooM  
 Mario64  
-
-
 
 ### The advent of Cinematic Storytelling  
 Cutscenes  
@@ -27,13 +26,14 @@ Pre-Rendered Cinematics
 Real-Time Events  
 Motion Capture  
 
-
 ## Real-Time Cameras  
-The concept of camera in a 3D space    
+
+The concept of camera in a 3D space  
 Command Line 3D Engine in C++  
 Raycasting  
 
 ## Cameras in a 3D Engine  
+
 The Graphic Pipeline  
 Math  
 
