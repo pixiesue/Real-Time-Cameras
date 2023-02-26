@@ -1,5 +1,7 @@
 # Real-Time-Cameras
 
+![Camera Control in Computer Graphics by Marc Christie and Patrick Olivier](https://drive.google.com/file/d/12iuMofmTF3V9wbUh_GtwBtnJKeXsk8La/view?usp=share_link)
+
 ## Real-Time Cameras – Mark Haig-Hutchinson
 The control of cameras is as important in games as it is in cinema. How the camera tracks and moves determines our point of view and influences our attitude towards the content. A poorly designed camera system in a game can disrupt a users experience, while a well-designed one can make a good game into a great one. The challenge in games is that the camera must respond to unscripted events, and this is where much of the difficulty of designing real-time camera systems arises. The increasing use of motion in virtual environments, marked by the inclusion of physics modeling and complex collision detection systems, means that camera systems must be even more effective to keep up. 
 
