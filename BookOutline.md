@@ -12,7 +12,8 @@ How to read that book
 ### From Static to Scrolling Screens  
 1st VG = 1st Camera  
 Spacewars  
-Tennis for Two
+Tennis for Two  
+Racing games  
 NES graphics explained: Mario  
 Side-scrolling
 
@@ -20,13 +21,15 @@ Side-scrolling
 Brief History of 3D  
 Wolfenstein 3D & DooM  
 Mario64  
+Resident Evil  
 
-### The advent of Cinematic Storytelling  
+### The Advent of Cinematic Storytelling  
 Cutscenes  
 Pre-Rendered Cinematics  
 Real-Time Events  
 Virtual Cinematography  
 Motion Capture  
+Generated cameras for dials  
 
 ## Real-Time Cameras  
 
