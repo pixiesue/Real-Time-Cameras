@@ -14,6 +14,7 @@ How to read that book
 Spacewars  
 Tennis for Two
 NES graphics explained: Mario  
+Side-scrolling
 
 ### Brand New POVs  
 Brief History of 3D  
@@ -24,11 +25,13 @@ Mario64
 Cutscenes  
 Pre-Rendered Cinematics  
 Real-Time Events  
+Virtual Cinematography  
 Motion Capture  
 
 ## Real-Time Cameras  
 
 The concept of camera in a 3D space  
+Math  
 Command Line 3D Engine in C++  
 Raycasting  
 
