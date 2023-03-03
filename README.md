@@ -3,12 +3,19 @@
 ## Intro  
 What do we mean by VCVG today  
 The lack of ressources on the subject  
-A word on Mark Craig Hutchinson & Fabien Sanglard & Others  
+A word on  
+Mark Craig Hutchinson  
+Fabien Sanglard  
+Modern Vintage Gamer  
+Freya Holmér  
+& Others  
 
 How to read that book  
  
 ## History of Virtual Cameras  
     
+We mix historical, technical 
+
 ### From Static to Scrolling Screens  
 1st VG = 1st Camera  
 Spacewars  
@@ -19,8 +26,18 @@ Side-scrolling
 
 ### Brand New POVs  
 Brief History of 3D  
+Raycasting  
 Wolfenstein 3D & DooM  
-Mario64  
+
+Tank Controls  
+
+Mario64 & Camera Controls  
+
+Sony Playstation 1  
+
+Dynamic Cameras  
+Analogic Sticks  
+
 Resident Evil  
 
 ### The Advent of Cinematic Storytelling  
@@ -52,7 +69,6 @@ Cuts
 Field of View  
 
 Quaternions  
-Raycasting  
 
 Gimbal Lock  
 ### Camera Features  
@@ -65,10 +81,14 @@ Collision
 
 Lookats  
 
+Free Camera  
+
 Command Line 3D Engine in C++  
 
 
-## The Graphic Pipeline   
+## Rendering a frame  
+
+### The Graphic Pipeline   
 
 
 
