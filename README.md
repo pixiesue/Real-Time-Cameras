@@ -33,15 +33,42 @@ Generated cameras for dials
 
 ## Real-Time Cameras  
 
-The concept of camera in a 3D space  
-Math  
-Command Line 3D Engine in C++  
+### Rules of Cinematography  
+180° rule  
+rule of thirds  
+framing  
+
+### Camera Systems  
+The concept of camera in a 2D/3D space  
+FPS/TPS  
+Fixed-angle cameras  
+Procedural cameras  
+
+Camera Controls  
+Linear Sensitivity/Dead Zones
+
+Cuts  
+
+Field of View  
+
+Quaternions  
 Raycasting  
 
-## Cameras in a 3D Engine  
+Gimbal Lock  
+### Camera Features  
 
-The Graphic Pipeline  
-Math  
+Split Screens  
+Camera Shakes/Noise  
+LERP smoothing  
+Transitions  
+Collision  
+
+Lookats  
+
+Command Line 3D Engine in C++  
+
+
+## The Graphic Pipeline   
 
 
 
