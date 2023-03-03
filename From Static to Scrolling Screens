@@ -39,7 +39,11 @@ https://en.wikipedia.org/wiki/Radar_Scope
 https://en.wikipedia.org/wiki/Galaxian
 
 # Rally-X 1980 Namco
-Camera is loc'ed to he player's position
+Camera is locked to the player's position
+
+# Jump Bug 1981 Hoei/Corland 
+1st platformer
+Character pushes the camera as it hits the window edge
 
 # Defender 1981 Arcade 
 allowed the game world to extend beyond the boundaries of a single static screen Williams Electronics first attempt 
