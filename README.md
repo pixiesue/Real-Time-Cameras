@@ -2,12 +2,19 @@
 
 ## Intro  
 What do we mean by VCVG today  
+Virtual Cameras vs Real World Cameras: focal lenght...  
+The 3D space and the math behind it  
+Viewports  
+Yaw, Pitch, Roll  
+
+
 The lack of ressources on the subject  
 A word on  
 Mark Craig Hutchinson  
 Fabien Sanglard  
 Modern Vintage Gamer  
 Freya Holmér  
+javidx9  
 & Others  
 
 How to read that book  
