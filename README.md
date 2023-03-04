@@ -4,24 +4,12 @@
 What do we mean by VCVG today  
 Virtual Cameras vs Real World Cameras: focal lenght...  
 The 3D space and the math behind it  
-Viewports  
 Yaw, Pitch, Roll  
-
-
-The lack of ressources on the subject  
-A word on  
-Mark Craig Hutchinson  
-Fabien Sanglard  
-Modern Vintage Gamer  
-Freya Holmér  
-javidx9  
-& Others  
-
-How to read that book  
+Viewports  
  
 ## History of Virtual Cameras  
     
-We mix historical, technical 
+
 
 ### From Static to Scrolling Screens  
 1st VG = 1st Camera  
@@ -98,6 +86,16 @@ Command Line 3D Engine in C++
 ### The Graphic Pipeline   
 
 
+## Acknowlegements/Disclaimer  
+The lack of ressources on the subject  
+A word on  
+Mark Craig Hutchinson  
+Fabien Sanglard  
+Modern Vintage Gamer  
+Freya Holmér  
+javidx9  
+& Others  
 
+How to read that book  
 
     
